@@ -1,0 +1,8 @@
+cradle:
+  cabal:
+    - path: "app/Main.hs"
+      component: "TwT-Solutions:exe:TwT-Solutions"
+    - path: "app/Ch06.hs"
+      component: "TwT-Solutions:exe:TwT-Solutions"
+    - path: "app/Ch07.hs"
+      component: "TwT-Solutions:exe:TwT-Solutions"
